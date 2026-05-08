@@ -53,3 +53,7 @@ npm start
 ## License
 
 MIT License. Feel free to fork and modify!
+
+---
+
+**⚠️ Disclaimer:** *This tool is for educational purposes only. Downloading copyrighted material without permission is against YouTube's Terms of Service and may be illegal in your country. The author is not responsible for any misuse of this software.*
